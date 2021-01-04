@@ -29,3 +29,5 @@ jobs:
 # 2021-06-02 - feat: Create Anthos sync policy
 
 # 2021-04-23 - chore: Refactor cluster manifests
+
+# 2021-01-04 - ci: Update cluster sync pipeline
