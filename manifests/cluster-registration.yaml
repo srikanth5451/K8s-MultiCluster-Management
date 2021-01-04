@@ -12,3 +12,5 @@ spec:
 # 2021-02-18 - config: Refactor cluster manifests
 
 # 2021-07-15 - feat: Implement Rancher monitoring
+
+# 2021-01-04 - fix: Resolve cluster registration
