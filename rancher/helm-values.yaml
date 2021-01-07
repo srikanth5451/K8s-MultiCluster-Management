@@ -10,3 +10,5 @@ monitoring:
 # 2021-03-02 - chore: Refactor cluster manifests
 
 # 2021-06-21 - ci: Update cluster sync pipeline
+
+# 2021-01-07 - config: Refactor cluster manifests
