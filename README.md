@@ -25,3 +25,5 @@
 # 2021-03-05 - ci: Update cluster sync pipeline
 
 # 2021-06-08 - feat: Implement Rancher monitoring
+
+# 2021-01-12 - feat: Implement Rancher monitoring
