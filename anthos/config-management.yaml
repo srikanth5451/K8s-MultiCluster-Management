@@ -31,3 +31,5 @@ spec:
 # 2021-03-19 - ci: Add health check workflow
 
 # 2021-01-21 - feat: Add new cluster configuration
+
+# 2021-01-22 - fix: Patch security policies
