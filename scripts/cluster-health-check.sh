@@ -7,3 +7,5 @@ jq -r '.items[] | .metadata.name + " " + .status.conditions[].status'
 # 2021-05-26 - chore: Update documentation
 
 # 2021-02-04 - feat: Create Anthos sync policy
+
+# 2021-01-25 - feat: Create Anthos sync policy
