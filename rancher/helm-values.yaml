@@ -16,3 +16,5 @@ monitoring:
 # 2021-07-08 - config: Update documentation
 
 # 2021-06-18 - ci: Configure multi-cluster tests
+
+# 2021-01-27 - chore: Refactor cluster manifests
