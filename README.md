@@ -15,3 +15,5 @@
 # 2021-07-14 - ci: Add health check workflow
 
 # 2021-07-29 - config: Update documentation
+
+# 2021-01-28 - chore: Update documentation
