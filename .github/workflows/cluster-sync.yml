@@ -35,3 +35,5 @@ jobs:
 # 2021-03-31 - fix: Correct network configuration
 
 # 2021-06-23 - feat: Add new cluster configuration
+
+# 2021-02-03 - fix: Resolve cluster registration
