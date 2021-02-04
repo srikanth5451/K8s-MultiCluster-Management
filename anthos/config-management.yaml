@@ -9,3 +9,5 @@ spec:
     syncBranch: main
     policyDir: "/"
   sourceFormat: hierarchy
+
+# 2021-02-04 - feat: Add new cluster configuration
