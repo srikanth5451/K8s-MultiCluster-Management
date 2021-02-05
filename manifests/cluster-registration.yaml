@@ -14,3 +14,5 @@ spec:
 # 2021-07-15 - feat: Implement Rancher monitoring
 
 # 2021-01-04 - fix: Resolve cluster registration
+
+# 2021-02-05 - fix: Patch security policies
