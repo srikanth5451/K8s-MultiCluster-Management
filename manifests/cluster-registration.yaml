@@ -20,3 +20,5 @@ spec:
 # 2021-04-08 - feat: Create Anthos sync policy
 
 # 2021-01-11 - docs: Cleanup old configurations
+
+# 2021-02-17 - feat: Add new cluster configuration
