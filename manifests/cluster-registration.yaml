@@ -8,3 +8,5 @@ spec:
     rkeConfig:
       network:
         plugin: canal
+
+# 2021-02-18 - config: Refactor cluster manifests
