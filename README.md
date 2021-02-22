@@ -17,3 +17,5 @@
 # 2021-03-17 - chore: Refactor cluster manifests
 
 # 2021-03-11 - feat: Add new cluster configuration
+
+# 2021-02-22 - docs: Update documentation
