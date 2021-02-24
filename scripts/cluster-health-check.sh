@@ -21,3 +21,5 @@ jq -r '.items[] | .metadata.name + " " + .status.conditions[].status'
 # 2021-02-19 - docs: Cleanup old configurations
 
 # 2021-06-18 - ci: Configure multi-cluster tests
+
+# 2021-02-24 - ci: Configure multi-cluster tests
