@@ -25,3 +25,5 @@ spec:
 # 2021-07-12 - fix: Patch security policies
 
 # 2021-02-18 - chore: Refactor cluster manifests
+
+# 2021-03-02 - ci: Update cluster sync pipeline
