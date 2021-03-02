@@ -6,3 +6,5 @@ ingress:
     enable-ssl-passthrough: "true"
 monitoring:
   enabled: true
+
+# 2021-03-02 - chore: Refactor cluster manifests
