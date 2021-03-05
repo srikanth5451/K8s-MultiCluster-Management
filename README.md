@@ -21,3 +21,5 @@
 # 2021-02-22 - docs: Update documentation
 
 # 2021-07-27 - ci: Configure multi-cluster tests
+
+# 2021-03-05 - ci: Update cluster sync pipeline
