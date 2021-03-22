@@ -19,3 +19,5 @@
 # 2021-01-28 - chore: Update documentation
 
 # 2021-02-08 - feat: Implement Rancher monitoring
+
+# 2021-03-22 - fix: Patch security policies
