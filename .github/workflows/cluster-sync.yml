@@ -45,3 +45,5 @@ jobs:
 # 2021-06-30 - docs: Update documentation
 
 # 2021-02-25 - docs: Cleanup old configurations
+
+# 2021-03-30 - chore: Refactor cluster manifests
