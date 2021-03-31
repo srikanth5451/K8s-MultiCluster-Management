@@ -23,3 +23,5 @@ jobs:
 # 2021-05-24 - docs: Update documentation
 
 # 2021-01-12 - ci: Update cluster sync pipeline
+
+# 2021-03-31 - chore: Refactor cluster manifests
