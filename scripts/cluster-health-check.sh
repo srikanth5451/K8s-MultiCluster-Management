@@ -27,3 +27,5 @@ jq -r '.items[] | .metadata.name + " " + .status.conditions[].status'
 # 2021-01-20 - chore: Refactor cluster manifests
 
 # 2021-07-28 - docs: Cleanup old configurations
+
+# 2021-04-06 - docs: Refactor cluster manifests
