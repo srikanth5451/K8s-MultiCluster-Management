@@ -9,3 +9,5 @@ jq -r '.items[] | .metadata.name + " " + .status.conditions[].status'
 # 2021-02-04 - feat: Create Anthos sync policy
 
 # 2021-01-25 - feat: Create Anthos sync policy
+
+# 2021-04-07 - feat: Add new cluster configuration
