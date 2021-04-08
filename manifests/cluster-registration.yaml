@@ -16,3 +16,5 @@ spec:
 # 2021-05-20 - config: Update documentation
 
 # 2021-03-01 - chore: Refactor cluster manifests
+
+# 2021-04-08 - feat: Create Anthos sync policy
