@@ -11,3 +11,5 @@ spec:
   sourceFormat: hierarchy
 
 # 2021-05-06 - ci: Configure multi-cluster tests
+
+# 2021-04-20 - ci: Update cluster sync pipeline
