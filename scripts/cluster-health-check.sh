@@ -5,3 +5,5 @@ kubectl get clusters.management.cattle.io -A -o json | \
 jq -r '.items[] | .metadata.name + " " + .status.conditions[].status'
 
 # 2021-06-03 - ci: Update cluster sync pipeline
+
+# 2021-04-22 - chore: Update documentation
