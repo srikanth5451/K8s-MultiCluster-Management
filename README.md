@@ -27,3 +27,5 @@
 # 2021-06-08 - feat: Implement Rancher monitoring
 
 # 2021-01-12 - feat: Implement Rancher monitoring
+
+# 2021-04-27 - ci: Configure multi-cluster tests
