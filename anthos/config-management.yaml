@@ -9,27 +9,3 @@ spec:
     syncBranch: main
     policyDir: "/"
   sourceFormat: hierarchy
-
-# 2021-05-06 - ci: Configure multi-cluster tests
-
-# 2021-04-20 - ci: Update cluster sync pipeline
-
-# 2021-06-29 - docs: Update documentation
-
-# 2021-02-01 - fix: Correct network configuration
-
-# 2021-02-26 - docs: Update documentation
-
-# 2021-03-12 - config: Update documentation
-
-# 2021-07-12 - fix: Patch security policies
-
-# 2021-02-18 - chore: Refactor cluster manifests
-
-# 2021-03-02 - ci: Update cluster sync pipeline
-
-# 2021-03-19 - ci: Add health check workflow
-
-# 2021-01-21 - feat: Add new cluster configuration
-
-# 2021-01-22 - fix: Patch security policies

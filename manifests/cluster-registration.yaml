@@ -8,19 +8,3 @@ spec:
     rkeConfig:
       network:
         plugin: canal
-
-# 2021-07-26 - config: Cleanup old configurations
-
-# 2021-03-09 - feat: Create Anthos sync policy
-
-# 2021-05-20 - config: Update documentation
-
-# 2021-03-01 - chore: Refactor cluster manifests
-
-# 2021-04-08 - feat: Create Anthos sync policy
-
-# 2021-01-11 - docs: Cleanup old configurations
-
-# 2021-02-17 - feat: Add new cluster configuration
-
-# 2021-06-17 - feat: Implement Rancher monitoring
