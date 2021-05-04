@@ -7,3 +7,5 @@
 - GitOps workflow implementation
 
 # 2021-07-05 - fix: Patch security policies
+
+# 2021-05-04 - chore: Update documentation
