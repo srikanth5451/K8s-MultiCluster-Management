@@ -9,3 +9,5 @@ spec:
     syncBranch: main
     policyDir: "/"
   sourceFormat: hierarchy
+
+# 2021-05-06 - ci: Configure multi-cluster tests
