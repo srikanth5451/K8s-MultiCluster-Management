@@ -11,3 +11,5 @@
 # 2021-05-04 - chore: Update documentation
 
 # 2021-01-18 - chore: Cleanup old configurations
+
+# 2021-05-11 - chore: Update documentation
