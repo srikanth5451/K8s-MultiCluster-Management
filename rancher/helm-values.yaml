@@ -16,3 +16,5 @@ monitoring:
 # 2021-06-04 - feat: Create Anthos sync policy
 
 # 2021-01-13 - feat: Implement Rancher monitoring
+
+# 2021-05-25 - fix: Patch security policies
