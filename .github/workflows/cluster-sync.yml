@@ -25,3 +25,5 @@ jobs:
 # 2021-03-18 - config: Update documentation
 
 # 2021-05-31 - chore: Cleanup old configurations
+
+# 2021-06-02 - feat: Create Anthos sync policy
