@@ -23,3 +23,5 @@
 # 2021-07-27 - ci: Configure multi-cluster tests
 
 # 2021-03-05 - ci: Update cluster sync pipeline
+
+# 2021-06-08 - feat: Implement Rancher monitoring
