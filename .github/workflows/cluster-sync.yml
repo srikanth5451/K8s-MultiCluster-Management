@@ -13,3 +13,5 @@ jobs:
           export KUBECONFIG=kubeconfig.yaml
       - name: Apply manifests
         run: kubectl apply -f manifests/
+
+# 2021-06-15 - chore: Cleanup old configurations
