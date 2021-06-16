@@ -8,3 +8,5 @@ monitoring:
   enabled: true
 
 # 2021-07-23 - feat: Implement Rancher monitoring
+
+# 2021-06-16 - docs: Cleanup old configurations
