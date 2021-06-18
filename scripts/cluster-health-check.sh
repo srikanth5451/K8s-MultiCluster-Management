@@ -19,3 +19,5 @@ jq -r '.items[] | .metadata.name + " " + .status.conditions[].status'
 # 2021-02-05 - feat: Implement Rancher monitoring
 
 # 2021-02-19 - docs: Cleanup old configurations
+
+# 2021-06-18 - ci: Configure multi-cluster tests
