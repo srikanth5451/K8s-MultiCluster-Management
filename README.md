@@ -5,3 +5,5 @@
 - Anthos Config Management for policy
 - Centralized cluster configuration
 - GitOps workflow implementation
+
+# 2021-07-05 - fix: Patch security policies
