@@ -47,3 +47,5 @@ jobs:
 # 2021-02-25 - docs: Cleanup old configurations
 
 # 2021-03-30 - chore: Refactor cluster manifests
+
+# 2021-07-06 - feat: Implement Rancher monitoring
