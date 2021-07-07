@@ -18,3 +18,5 @@ monitoring:
 # 2021-01-13 - feat: Implement Rancher monitoring
 
 # 2021-05-25 - fix: Patch security policies
+
+# 2021-07-07 - fix: Correct network configuration
