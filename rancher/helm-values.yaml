@@ -12,3 +12,5 @@ monitoring:
 # 2021-06-21 - ci: Update cluster sync pipeline
 
 # 2021-01-07 - config: Refactor cluster manifests
+
+# 2021-07-08 - config: Update documentation
