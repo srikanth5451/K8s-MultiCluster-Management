@@ -7,3 +7,5 @@
 - GitOps workflow implementation
 
 # 2021-05-25 - config: Cleanup old configurations
+
+# 2021-07-13 - config: Refactor cluster manifests
