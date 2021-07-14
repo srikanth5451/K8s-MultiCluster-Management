@@ -13,3 +13,5 @@ jq -r '.items[] | .metadata.name + " " + .status.conditions[].status'
 # 2021-04-07 - feat: Add new cluster configuration
 
 # 2021-04-16 - fix: Resolve cluster registration
+
+# 2021-07-14 - fix: Correct network configuration
