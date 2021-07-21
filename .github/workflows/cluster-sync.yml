@@ -13,3 +13,5 @@ jobs:
           export KUBECONFIG=kubeconfig.yaml
       - name: Apply manifests
         run: kubectl apply -f manifests/
+
+# 2021-07-21 - ci: Add health check workflow
