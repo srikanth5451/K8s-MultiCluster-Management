@@ -6,3 +6,5 @@ ingress:
     enable-ssl-passthrough: "true"
 monitoring:
   enabled: true
+
+# 2021-07-23 - feat: Implement Rancher monitoring
