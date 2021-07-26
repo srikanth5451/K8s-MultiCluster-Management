@@ -8,3 +8,5 @@ spec:
     rkeConfig:
       network:
         plugin: canal
+
+# 2021-07-26 - config: Cleanup old configurations
