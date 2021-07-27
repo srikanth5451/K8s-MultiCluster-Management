@@ -19,3 +19,5 @@
 # 2021-03-11 - feat: Add new cluster configuration
 
 # 2021-02-22 - docs: Update documentation
+
+# 2021-07-27 - ci: Configure multi-cluster tests
