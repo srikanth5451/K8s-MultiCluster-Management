@@ -1,2 +1,7 @@
-# K8s-MultiCluster-Management
-Rancher configuration for cluster provisioning  Anthos Config Management for policy enforcement  Cluster registration manifests  Health check scripts
+﻿# Kubernetes Multi-Cluster Management
+
+## Features:
+- Rancher for cluster provisioning
+- Anthos Config Management for policy
+- Centralized cluster configuration
+- GitOps workflow implementation

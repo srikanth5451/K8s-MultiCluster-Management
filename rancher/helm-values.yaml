@@ -1,0 +1,8 @@
+﻿clusterName: production-cluster
+kubernetesVersion: v1.21.5
+ingress:
+  provider: nginx
+  extraArgs:
+    enable-ssl-passthrough: "true"
+monitoring:
+  enabled: true

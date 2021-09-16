@@ -1,0 +1,11 @@
+﻿apiVersion: configmanagement.gke.io/v1
+kind: ConfigManagement
+metadata:
+  name: config-management
+spec:
+  clusterName: production-cluster
+  git:
+    syncRepo: https://github.com/yourorg/gitops-repo
+    syncBranch: main
+    policyDir: "/"
+  sourceFormat: hierarchy

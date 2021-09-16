@@ -1,0 +1,10 @@
+﻿apiVersion: management.cattle.io/v3
+kind: Cluster
+metadata:
+  name: production-cluster
+spec:
+  displayName: Production Cluster
+  clusterSpec:
+    rkeConfig:
+      network:
+        plugin: canal
